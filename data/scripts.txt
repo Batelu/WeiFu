@@ -1,1 +1,1 @@
-
+In cancer genome projects, copy number variations (CNVs), single nucleotide polymorphisms (SNPs), and insertions/deletions (INDELs) are the three primary types of genetic variations that impact gene function and cancer progression. 
